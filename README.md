@@ -8,7 +8,7 @@ You can find our research poster [here](resources/poster.pdf), and a video demo 
 
 ## Pipeline
 
-<p align="center"><img src="resources/pipeline.png"></p>
+<p align="center" width="70%"><img src="resources/pipeline.png"></p>
 
 ## Modules
 You can find the code for the following sub-projects in this repoistory.
@@ -30,8 +30,8 @@ Describing videos by densely captioning the events in a given segment into natur
 
 <table>
 <tr>
-<td align="center"><img src="resources/caption_1.png"></td>
-<td align="center"><img src="resources/caption_2.png"></td>
+<td align="center"><img src="resources/captions_1.png"></td>
+<td align="center"><img src="resources/captions_2.png"></td>
 </tr>
 </table>
 
